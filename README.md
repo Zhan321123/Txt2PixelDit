@@ -12,3 +12,11 @@
 我平时的项目只有我自己在看，所以我想着也没什么事，毕竟没有人会看我的代码，所以才写了“晚了”等言论，最初是为了博自己一笑的
 
 我已经长记性了，不会再做侵权行为了
+
+This project has been deleted. I am just a university student majoring in water conservancy. I usually enjoy playing Minecraft (MC) and learned Java to develop mods. However, the textures I created for my mod were quite ugly. Seeing the beautiful textures of high-quality mods like Create, I wondered if I could use AI to learn from their textures and automatically generate them for me. So, I studied AI models. Of course, I don't develop mods anymore. Now, I am learning about AI. Therefore, I took this as a practice project
+
+It just didn't occur to me that it would constitute infringement. I sincerely apologize here, to all the creators of the 74 modules. I'm sorry, the textures you drew are indeed very beautiful, but that's not the reason why I used them as the training set
+
+I usually work on projects that only I review, so I thought there was nothing much to it, after all, no one would look at my code. That's why I wrote comments like "too late", initially just to make myself laugh
+
+I have learned my lesson and will not engage in any infringement activities again
